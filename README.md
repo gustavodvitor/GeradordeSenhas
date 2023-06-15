@@ -7,4 +7,4 @@ O site foi feito para gerar senhas automaticamente com no minimo 5 caracteres e 
 HTML, CSS e Javascript.
 
 ## ✒️ Autores
-Projeto feito pelo autor "Sujeito Programador" na plataforma Youtube, e foi feito para ampliar meus estudos de frontend.
+Projeto feito pelo autor "Sujeito Programador" na plataforma Youtube. Replicado por mim para ampliar meus estudos de frontend.
